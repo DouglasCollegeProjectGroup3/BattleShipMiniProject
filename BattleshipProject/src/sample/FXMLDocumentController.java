@@ -5,7 +5,7 @@
  */
 package sample;
 
-import com.sun.glass.ui.Application;
+
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.event.Event;
@@ -26,7 +26,7 @@ import sample.Model.Model;
 import sample.Model.Ship;
 import sample.View.View;
 
-import java.awt.event.ActionEvent;
+
 import java.io.File;
 import java.net.URL;
 import java.util.ArrayList;
